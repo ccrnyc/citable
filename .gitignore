@@ -1,0 +1,11 @@
+# macOS Finder metadata
+.DS_Store
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Tables and backups produced by running the skill (they belong in case folders)
+citable-*.html
+citable-*.csv
+citable-backups/
